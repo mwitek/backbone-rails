@@ -1,0 +1,13 @@
+<div id="header" class="navbar navbar-default">
+  <div class="navbar-inner">
+    <div class="container">
+      <div class="row">
+        <div class="pull-left">
+          <span class="navbar-brand">BackboneRails.com Demo</span>
+        </div>
+        <ul class="nav navbar-nav pull-right main-list">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
