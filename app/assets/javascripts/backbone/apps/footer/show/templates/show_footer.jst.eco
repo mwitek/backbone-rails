@@ -1,1 +1,5 @@
-WORKING
+<div class="footer-module">
+  <div class="container">
+    <p class="muted">testing</p>
+  </div>
+</div>
