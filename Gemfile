@@ -15,7 +15,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem "compass-rails"
 gem "bootstrap-sass-rails"
-
+gem "rabl"
+gem "oj"
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
