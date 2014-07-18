@@ -17,6 +17,7 @@ gem "compass-rails"
 gem "bootstrap-sass-rails"
 gem "rabl"
 gem "oj"
+gem "gon"
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
