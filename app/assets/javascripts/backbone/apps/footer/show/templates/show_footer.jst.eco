@@ -1,5 +1,5 @@
-<div class="footer-module">
-  <div class="container">
-    <p class="muted">testing<%= @full_name %></p>
+  <div class="footer-module">
+    <div class="container">
+      <p class="muted">testing<%= @full_name %></p>
+    </div>
   </div>
-</div>
